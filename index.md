@@ -56,7 +56,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <div class="container"> 
 
 <table class="imgtable"><tr><td>
-<a href="./"><img src="./Files/zq_photo_square.jpg" alt="" height="215px" /></a>&nbsp;</td>
+<a href="./"><img src="./Files/personal_image.jpg" alt="" height="215px" /></a>&nbsp;</td>
 <td align="left"><p><a href="./"><font size="4">Shengzeng Huo, Kyle (</font><font size="4"; font style="font-family:Microsoft YaHei">霍 盛增</font><font size="4">)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
