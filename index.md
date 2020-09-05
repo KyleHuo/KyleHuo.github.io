@@ -17,12 +17,23 @@
 <div class="container"> 
 
 <table class="imgtable"><tr><td>
-<a href="./"><img src="https://github.com/KyleHuo/kylehuo.github.io/blob/master/files/personal_image.jpg" alt="" height="215px" /></a>&nbsp;</td>
-<td align="left"><p><a href="./"><font size="4">Shengzeng Huo, Kyle (</font><font size="4"; font style="font-family:Microsoft YaHei">霍 盛增</font><font size="4">)</font></a><br />
+<a href="./"><img src="./Files/zq_photo_square.jpg" alt="" height="215px" /></a>&nbsp;</td>
+<td align="left"><p><a href="./"><font size="4">Qiang Zhang (</font><font size="4"; font style="font-family:Microsoft YaHei">张 强</font><font size="4">)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
-<a href="https://www.romi-lab.org/">Robotics and Machine Intelligence Laboratory, The Hong Kong Polytechnic University (LIESMARS)</a><br />
-<a href="The Hong Kong Polytechnic University ">The Hong Kong Polytechnic University </a><br />
+<a href="http://www.lmars.whu.edu.cn/">State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)</a><br />
+<a href="https://www.whu.edu.cn/">Wuhan University</a><br />
+<br />
+Location: Building 39-Room 105, Luoyu Road #129, Hongshan District, Wuhan, Hubei, China<br />
+<class="staffshortcut">
+ <A HREF="#News">News</A> | 
+ <A HREF="#Interest">Research Interest</A> | 
+ <A HREF="#Education">Education</A> | 
+ <A HREF="#Publications">Publications</A> | 
+ <A HREF="#Projects">Projects</A> | 
+ <A HREF="#Services">Services</A> | 
+ <A HREF="#Awards">Awards</A>
+<br />
 <br />
  
 Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
